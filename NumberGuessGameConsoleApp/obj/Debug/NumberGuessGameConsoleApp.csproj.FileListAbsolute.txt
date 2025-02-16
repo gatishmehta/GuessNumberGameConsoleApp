@@ -1,0 +1,7 @@
+C:\Users\E5670267\source\repos\NumberGuessGameServiceApp\NumberGuessGameConsoleApp\bin\Debug\NumberGuessGameConsoleApp.exe.config
+C:\Users\E5670267\source\repos\NumberGuessGameServiceApp\NumberGuessGameConsoleApp\bin\Debug\NumberGuessGameConsoleApp.exe
+C:\Users\E5670267\source\repos\NumberGuessGameServiceApp\NumberGuessGameConsoleApp\bin\Debug\NumberGuessGameConsoleApp.pdb
+C:\Users\E5670267\source\repos\NumberGuessGameServiceApp\NumberGuessGameConsoleApp\obj\Debug\NumberGuessGameConsoleApp.csproj.AssemblyReference.cache
+C:\Users\E5670267\source\repos\NumberGuessGameServiceApp\NumberGuessGameConsoleApp\obj\Debug\NumberGuessGameConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\E5670267\source\repos\NumberGuessGameServiceApp\NumberGuessGameConsoleApp\obj\Debug\NumberGuessGameConsoleApp.exe
+C:\Users\E5670267\source\repos\NumberGuessGameServiceApp\NumberGuessGameConsoleApp\obj\Debug\NumberGuessGameConsoleApp.pdb
